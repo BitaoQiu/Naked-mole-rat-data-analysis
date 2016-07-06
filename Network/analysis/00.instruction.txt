@@ -1,0 +1,2 @@
+Using Network_construction to construct network first from mouse gene interaction from String database. (Filter abundance and selfloop)
+Simulation*R to use bootstrap simulation in degree, modularity and degree of target gene.

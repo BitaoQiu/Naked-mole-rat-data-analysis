@@ -1,0 +1,2 @@
+Download testis gene expression data (see method) and then use quantile normalization.
+Boxplot of normalized expression levels in spermatogenesis genes.

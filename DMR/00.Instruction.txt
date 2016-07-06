@@ -1,0 +1,2 @@
+Run 01 and 02 to concatenate NMR genome into 20 pseudo chromosomes.
+Run 03 to detect DMR (realigned BAM file and pseudo chromosome needed)
