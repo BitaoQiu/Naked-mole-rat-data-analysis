@@ -1,0 +1,24 @@
+BF_brain	BF_brain2
+BF_brain	BF_brain3
+BF_ovary	BF_ovary2
+BF_ovary	BF_ovary3
+BM_brain	BM_brain2
+BM_brain	BM_brain3
+BM_testis	BM_testis2
+BM_testis	BM_testis3
+WF_brain	WF_brain2
+WF_brain	WF_brain3
+WF_ovary	WF_ovary1
+WF_ovary	WF_ovary2
+WM_brain	WM_brain2
+WM_brain	WM_brain3
+WM_testis	WM_testis2
+WM_testis	WM_testis3
+BF_brain-vs-WM_brain
+BM_brain-vs-WF_brain
+#BM_brain-vs-WM_brain
+#BF_brain-vs-WF_brain
+#BF_brain-vs-BM_brain
+#WF_brain-vs-WM_brain
+#BM_testis-vs-WM_testis
+#BF_ovary-vs-WF_ovary

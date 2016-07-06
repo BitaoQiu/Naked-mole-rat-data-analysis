@@ -1,0 +1,2 @@
+1. Run work6.sh to detect candidate genes with three different methods: cufflink, edgeR and DESeq (replaced with DESeq2). (Provided bam file, genome fasta, genome annotation gtf and unnormalized gene expression matrix.
+2. Get unadjust pvalue of three different method by calling work_make_4compare.sh.
